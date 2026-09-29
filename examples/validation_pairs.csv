@@ -1,0 +1,2 @@
+subject_id,starting_session_id,followup_session_id,starting_age,followup_age
+example_val_001,baseline,month36,70.0,73.0

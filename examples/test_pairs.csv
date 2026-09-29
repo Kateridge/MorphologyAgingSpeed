@@ -1,0 +1,3 @@
+subject_id,starting_session_id,followup_session_id,starting_age,followup_age,cohort,starting_diagnosis,followup_diagnosis,conversion_type
+example_pt_001,baseline,month24,70.0,72.0,example_cohort,CU,MCI,CU-to-MCI
+example_pt_002,baseline,month36,74.0,77.0,example_cohort,MCI,AD,MCI-to-AD

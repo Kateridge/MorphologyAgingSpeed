@@ -1,0 +1,4 @@
+subject_id,starting_session_id,followup_session_id,starting_age,followup_age
+example_train_001,baseline,month24,65.0,67.0
+example_train_001,baseline,month48,65.0,69.0
+example_train_001,month24,month48,67.0,69.0
